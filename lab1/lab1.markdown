@@ -1,4 +1,4 @@
-# 2312129&nbsp;&nbsp;&nbsp;&nbsp;李瑾
+# 2312129&nbsp;&nbsp;&nbsp;李瑾&nbsp;&nbsp;&nbsp;&nbsp;2212054&nbsp;&nbsp;&nbsp;张毓格&nbsp;&nbsp;&nbsp;&nbsp;2313265&nbsp;&nbsp;&nbsp;黄子豪
 ## 练习1：理解内核启动中的程序入口操作
 
 阅读 kern/init/entry.S内容代码，结合操作系统内核启动流程，说明指令 la sp, bootstacktop 完成了什么操作，目的是什么？ tail kern_init 完成了什么操作，目的是什么？
